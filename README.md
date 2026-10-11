@@ -5,7 +5,7 @@
 Analiza jakości produkcji elektronicznej (PCBA/SMT) dla trzech linii produkcyjnych.  
 Celem projektu było zidentyfikowanie głównych źródeł defektów, ocena wydajności operatorów oraz monitorowanie trendów jakościowych w czasie.
 
-Projekt symuluje rzeczywiste środowisko produkcyjne w branży elektronicznej i wykorzystuje dane z systemów MES/AOI.
+Projekt oparty jest na danych syntetycznych, które przygotowałem samodzielnie (12 maszyn, 5 produktów, 20 zleceń, 31 rekordów defektów). Odwzorowują strukturę danych znaną z systemów MES/AOI, ale nie pochodzą z żadnego zakładu produkcyjnego. Znam ten typ danych z pracy jako planista produkcji.
 
 ---
 
