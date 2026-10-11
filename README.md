@@ -103,7 +103,7 @@ YoY Production %  = DIVIDE([Total Produced] - [Total Produced PY], [Total Produc
 
 ## 📈 Dashboard Power BI
 
-![PCBA Quality Dashboard](dashboard.png)
+![PCBA Quality Dashboard](images/dashboard.png)
 
 **Elementy dashboardu:**
 - KPI Cards: Total Produced, Yield %, Total Defects, Scrap Qty
