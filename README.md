@@ -115,6 +115,14 @@ YoY Production %  = DIVIDE([Total Produced] - [Total Produced PY], [Total Produc
 
 ---
 
+## ⚠️ Ograniczenia analizy
+
+- Zbiór jest mały (20 zleceń, 31 rekordów defektów), więc wnioski mają charakter ilustracyjny, a nie statystycznie rozstrzygający.
+- Trend defektów obejmuje tylko styczeń–marzec 2024. Trzy punkty nie wystarczą, by mówić o trwałej poprawie.
+- Plik .pbix nie jest dołączony do repozytorium. Dashboard pokazuje zrzut ekranu.
+
+---
+
 ## 📁 Struktura repozytorium
 
 ```
