@@ -129,10 +129,3 @@ pcba-quality-analysis/
     └── 05_operator_product_analysis.sql
 ```
 
----
-
-## 👤 Autor
-
-Portfolio project — Data Analytics  
-Branża: Produkcja elektroniczna (PCBA/SMT)  
-Narzędzia: BigQuery · Power BI · DAX · SQL
